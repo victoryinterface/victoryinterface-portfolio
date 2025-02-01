@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/victoryinterface-portfolio/static/css/main.9dc40077.css",
+    "main.css": "/victoryinterface-portfolio/static/css/main.2a4f1a2d.css",
     "main.js": "/victoryinterface-portfolio/static/js/main.3927e2f3.js",
     "static/media/2.jpg": "/victoryinterface-portfolio/static/media/2.b52c34e98a07c4b06086.jpg",
     "static/media/1.jpg": "/victoryinterface-portfolio/static/media/1.5c3decb4e5a845abb5d1.jpg",
     "static/media/me.avif": "/victoryinterface-portfolio/static/media/me.29f32c8c164e2f9a562f.avif",
     "static/media/icondefault.svg": "/victoryinterface-portfolio/static/media/icondefault.80f0cd8c86af97df42976fb7ad2a817c.svg",
     "index.html": "/victoryinterface-portfolio/index.html",
-    "main.9dc40077.css.map": "/victoryinterface-portfolio/static/css/main.9dc40077.css.map",
+    "main.2a4f1a2d.css.map": "/victoryinterface-portfolio/static/css/main.2a4f1a2d.css.map",
     "main.3927e2f3.js.map": "/victoryinterface-portfolio/static/js/main.3927e2f3.js.map"
   },
   "entrypoints": [
-    "static/css/main.9dc40077.css",
+    "static/css/main.2a4f1a2d.css",
     "static/js/main.3927e2f3.js"
   ]
 }
